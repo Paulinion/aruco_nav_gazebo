@@ -19,4 +19,4 @@ To teleop quadrotor
 
 To print pose estimation 
 
-*rostopic echo /fiducial_pose *
+*rostopic echo /fiducial_pose*
